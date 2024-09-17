@@ -1,0 +1,12 @@
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    text-align: center;
+}body{
+    background-image: url(image/tophf.png);
+    background-attachment: fixed;
+}
+p{
+    font-size: 30px;
+    color: #ffffff;
+}
